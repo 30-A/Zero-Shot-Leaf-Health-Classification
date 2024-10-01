@@ -1,4 +1,4 @@
-# Automated Leaf Health Annotation for Greenhouse Images
+# Automated Leaf Health Classification for Greenhouse Images
 
 This project implements an automated system for classifying plant health in greenhouse images using zero-shot learning models.
 
